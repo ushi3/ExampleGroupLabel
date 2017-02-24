@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="GroupingItemDecoration">
+        <attr name="android:background"/>
+        <attr name="android:textSize"/>
+        <attr name="android:textColor"/>
+        <attr name="android:padding"/>
+        <!-- TODO fix support RTL -->
+        <attr name="android:paddingLeft"/>
+        <attr name="android:paddingRight"/>
+        <attr name="android:paddingTop"/>
+        <attr name="android:paddingBottom"/>
+
+        <attr name="fontPath" format="string"/>
+    </declare-styleable>
+
+</resources>

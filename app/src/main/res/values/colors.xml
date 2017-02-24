@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="labelColor">#F0F0F0</color>
+
+    <!-- Material black on Light -->
+    <color name="black">#000000</color>
+    <!-- 87% black (for text)-->
+    <color name="md_black_opacity_87">#DD000000</color>
+    <!-- 54% black (for secondary text) -->
+    <color name="md_black_opacity_54">#89000000</color>
+    <!-- 26% black  (for disabled and hint)-->
+    <color name="md_black_opacity_26">#42000000</color>
+    <!-- 12% black  (for divider)-->
+    <color name="md_black_opacity_12">#1E000000</color>
+</resources>
