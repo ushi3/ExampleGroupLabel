@@ -79,6 +79,9 @@ public class GroupingItemDecoration extends RecyclerView.ItemDecoration {
         ta.recycle();
     }
 
+    /**
+     * TODO onDrawOver() is overlay scrollbars... (support-25.2.0)
+     */
     @Override
     public void onDrawOver(Canvas canvas, RecyclerView parent, RecyclerView.State state) {
         Categorizable categorizable = getCategorizableFrom(parent.getAdapter());

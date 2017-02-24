@@ -9,7 +9,7 @@
 
     <style name="RecyclerView.Linear">
         <item name="android:orientation">vertical</item>
-        <item name="android:scrollbars">vertical</item>
+        <item name="android:scrollbars">none</item>
         <item name="layoutManager">android.support.v7.widget.LinearLayoutManager</item>
     </style>
 
